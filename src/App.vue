@@ -1,5 +1,5 @@
 <template>
-  <div class="min-w-[375px] h-[100vh] flex justify-center items-center bg-[#f6f7f8]">
+  <div class="min-w-[300px] h-[100vh] flex justify-center items-center bg-[#f6f7f8]">
     <div class="p-8 rounded-[16px] bg-white">
       <div class="flex justify-center items-center">
         <img class="w-[256px] h-[256px]" src="https://files.sunguoqi.com/images/202312222234058.webp">
